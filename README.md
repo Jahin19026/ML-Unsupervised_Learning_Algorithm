@@ -1,4 +1,4 @@
-**<span style="color: purple; font-size: 30px;">Breast Cancer Clustering Using K-Means</span>**
+# Breast Cancer Clustering Using K-Means
 
 ## Project Overview
 This project applies **unsupervised machine learning** techniques to the Breast Cancer dataset in order to identify natural groupings of patients based on their cell characteristics.  
